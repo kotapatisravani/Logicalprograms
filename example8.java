@@ -1,3 +1,4 @@
+/* Write a Java program to input any alphabet and check whether it is vowel or    consonant.*/
 import java.util.Scanner;
 public class example8 {
 	public static void main(String[] args) {
