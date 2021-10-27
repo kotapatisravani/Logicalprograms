@@ -1,3 +1,4 @@
+/*Write a Java program to check whether a number is negative, positive or zero.*/
 import java.util.Scanner;
 public class example3 {
 	public static void main(String[] args) {
