@@ -1,3 +1,4 @@
+/*Write a Java program to check whether a character is uppercase or lowercase     alphabet.*/
 import java.util.Scanner;
 public class example10 {
 	public static void main(String[] args) {
@@ -12,5 +13,5 @@ public class example10 {
 	        System.out.println("lowercase");
 	    }
 	    
-}
+        }
 }
