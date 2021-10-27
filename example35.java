@@ -1,4 +1,4 @@
-/*Write a Java program to enter a number and print it in words.*/
+/*Write a Java program to print all ASCII character with their values.*/
 public class example35 {
 	public static void main(String[] args) {
 	    
