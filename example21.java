@@ -1,7 +1,7 @@
-//import java.util.Scanner;
+/*Write a Java program to print all odd number between 1 to 100.*/
 public class example21 {
 	public static void main(String[] args) {
-	    //Scanner scan=new Scanner(System.in);
+	   
 	    
 	    int i=1;
 	    
