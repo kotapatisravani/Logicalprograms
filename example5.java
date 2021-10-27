@@ -1,3 +1,4 @@
+/*Write a Java program to check whether a number is even or odd.*/
 import java.util.Scanner;
 public class example5 {
 	public static void main(String[] args) {
@@ -5,14 +6,14 @@ public class example5 {
 	    System.out.println("enter a number:");
 	    int num=scan.nextInt();
 	    while(num>0){
-	    if(num%2==0){
+	     if(num%2==0){
 	        System.out.println("even number");
 	        
-	    }
-	    else{
+	     }
+	     else{
 	        System.out.println("odd number");
-	    }
-	    break;
-	}
-}
+	     }
+	     break;
+	   }
+       }
 }
