@@ -1,18 +1,26 @@
+/*Write a Java program to input marks of five subjects Physics, Chemistry, Biology,     Mathematics and Computer. Calculate percentage and grade according to     following:
+    Percentage >= 90% : Grade A
+    Percentage >= 80% : Grade B
+    Percentage >= 70% : Grade C
+    Percentage >= 60% : Grade D
+    Percentage >= 40% : Grade E
+    Percentage < 40% : Grade F*/
+
 import java.util.Scanner;
 public class example13 {
 	public static void main(String[] args) {
-	    Scanner scan=new Scanner(System.in);
+	  Scanner scan=new Scanner(System.in);
 	    
-	    System.out.println("enter 5 subjects marks out of 100");
-        int sub1=scan.nextInt();
-        int sub2=scan.nextInt();
-        int sub3=scan.nextInt();
-        int sub4=scan.nextInt();
-        int sub5=scan.nextInt();
+	  System.out.println("enter 5 subjects marks out of 100");
+           int sub1=scan.nextInt();
+           int sub2=scan.nextInt();
+            int sub3=scan.nextInt();
+           int sub4=scan.nextInt();
+            int sub5=scan.nextInt();
         
-        int sum=sub1+sub2+sub3+sub4+sub5;
+           int sum=sub1+sub2+sub3+sub4+sub5;
         
-        int percentage=(sum*100)/500;
+         int percentage=(sum*100)/500;
         
         if(percentage>=90){
             char grade='A';
@@ -43,5 +51,5 @@ public class example13 {
         }
         
         
-}
+      }
 }
