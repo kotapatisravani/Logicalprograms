@@ -1,8 +1,9 @@
+/*Write a Java program to check whether a year is leap year or not. */
 import java.util.Scanner;
 public class example6 {
 	public static void main(String[] args) {
 	    Scanner scan=new Scanner(System.in);
-	    System.out.println("enter a number:");
+	    System.out.println("enter a number:"); 
 	    int year=scan.nextInt();
 	    
 	    if(year%4==0 && year%100!=0 || year%400==0){
@@ -13,5 +14,5 @@ public class example6 {
 	    
 	    }
 	    
-}
+       }
 }
