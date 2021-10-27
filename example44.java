@@ -1,3 +1,4 @@
+/*Write a Java program to print all Armstrong numbers between 1 to n.*/
 import java.util.Scanner;
 public class example44 {
 	public static void main(String[] args) {
