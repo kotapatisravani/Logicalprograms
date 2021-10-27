@@ -1,3 +1,4 @@
+/*Write a Java program to calculate product of digits of a number.*/
 import java.util.Scanner;
 public class example31 {
 	public static void main(String[] args) {
