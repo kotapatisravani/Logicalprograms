@@ -1,7 +1,6 @@
-//import java.util.Scanner;
+/*Write a Java program to print all even numbers between 1 to 100. - using while     loop*/
 public class example20 {
 	public static void main(String[] args) {
-	    //Scanner scan=new Scanner(System.in);
 	    
 	    int i=2;
 	    
