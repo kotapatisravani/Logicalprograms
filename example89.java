@@ -1,3 +1,4 @@
+/*WAP to Display the ATM Transaction*/
 import java.util.Scanner;
 class BankAccount{
     private String accountNum;
