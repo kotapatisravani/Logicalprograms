@@ -1,3 +1,4 @@
+/*WAP to find all prime numbers between given interval.*/
 import java.util.Scanner;
 public class example84 {
 	public static void main(String[] args) {
