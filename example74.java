@@ -1,3 +1,4 @@
+/*Write a Java program to find highest frequency character in a string.*/
 import java.util.Scanner;
 public class example74 {
 	public static void main(String[] args) {
