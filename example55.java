@@ -1,3 +1,4 @@
+/*Write a Java program to copy all elements from an array to another array.*/
 import java.util.Scanner;
 public class example55 {
 	public static void main(String[] args) {
