@@ -1,3 +1,4 @@
+/*Write a Java program to merge two file to third file.*/
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
