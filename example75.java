@@ -1,3 +1,4 @@
+/*Write a Java program to find lowest frequency character in a string.*/
 import java.util.Scanner;
 public class example75 {
 	public static void main(String[] args) {
