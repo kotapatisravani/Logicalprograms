@@ -1,3 +1,4 @@
+/*Write a Java program to print all unique elements in the array.*/
 import java.util.Scanner;
 public class example58 {
 	public static void main(String[] args) {
