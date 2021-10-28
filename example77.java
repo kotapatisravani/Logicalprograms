@@ -1,3 +1,4 @@
+/*Write a Java program to create a file and write contents, save and close the file.*/
 import java.util.Scanner;
 import java.io.*;
 public class example77 {
