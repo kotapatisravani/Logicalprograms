@@ -1,3 +1,4 @@
+/*Write a Java program to count characters, words and lines in a text file.*/
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -27,22 +28,14 @@ public class example82 {
 				}
 				str1=fr.readLine();
 			}
-//			while((ch=fr.read())!=-1) {
-//				//System.out.print((char) ch);
-//				if(((char)ch>='A' && (char)ch<='Z') || ((char)ch>='a' && (char)ch<='z')){
-//					alpa++;
-//				}
-//				
-//				
-//			}
-//			
+			
 			
 			System.out.println("Number of characters :"+ch);
 			System.out.println("Number of lines :"+line);
 			System.out.println("Number of lines :"+alpa);
 		}
 		catch (Exception e) {
-			// TODO: handle exception
+			
 			
 			System.out.println(e);
 		}
