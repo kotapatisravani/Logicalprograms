@@ -1,3 +1,4 @@
+/* Write a Java program to count total number of words in a string.*/
 import java.util.Scanner;
 public class example67 {
 	public static void main(String[] args) {
