@@ -1,3 +1,4 @@
+/* Write a Java program to find total number of alphabets, digits or special     character in a string.*/
 import java.util.Scanner;
 public class example65 {
 	public static void main(String[] args) {
