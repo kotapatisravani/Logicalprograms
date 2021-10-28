@@ -1,4 +1,4 @@
-/*WAP to check whether a number is prime, Armstrong or perfect number using  functions.*/
+/*WAP to check whether a number is prime, Armstrong or perfect number.*/
 import java.util.Scanner;
 public class example83 {
 	public static void main(String[] args) {
