@@ -1,3 +1,4 @@
+/*Write a Java program to print Fibonacci series up to n terms*/
 import java.util.Scanner;
 public class example49 {
 	public static void main(String[] args) {
