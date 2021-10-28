@@ -1,3 +1,4 @@
+/*Write a Java program to find reverse of a string.*/
 import java.util.Scanner;
 public class example68 {
 	public static void main(String[] args) {
