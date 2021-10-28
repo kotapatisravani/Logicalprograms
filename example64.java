@@ -1,3 +1,4 @@
+/*Write a Java program to find length of a string and compare and concatenate two     strings.*/
 import java.util.Scanner;
 public class example64 {
 	public static void main(String[] args) {
