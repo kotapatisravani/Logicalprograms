@@ -1,3 +1,4 @@
+/*Write a Java program to read file contents and display on console.*/
 import java.io.FileReader;
 import java.io.FileWriter;
 
@@ -17,8 +18,7 @@ public class example78 {
 			}
 		}
 		catch (Exception e) {
-			// TODO: handle exception
-			
+						
 			System.out.println(e);
 		}
 	}
