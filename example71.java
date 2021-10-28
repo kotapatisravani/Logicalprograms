@@ -1,3 +1,4 @@
+/*Write a Java program to find last occurrence of a character in a given string.*/
 import java.util.Scanner;
 public class example71 {
 	public static void main(String[] args) {
