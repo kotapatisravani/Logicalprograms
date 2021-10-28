@@ -1,3 +1,4 @@
+/*Write a Java program to count total number of negative elements in an array.*/
 import java.util.Scanner;
 public class example54 {
 	public static void main(String[] args) {
