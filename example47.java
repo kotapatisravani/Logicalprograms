@@ -1,3 +1,4 @@
+/*Write a Java program to check whether a number is Strong number or not.*/
 import java.util.Scanner;
 public class example47 {
 	public static void main(String[] args) {
