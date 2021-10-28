@@ -1,3 +1,4 @@
+/* Write a Java program to check whether a number is Perfect number or not.*/
 import java.util.Scanner;
 public class example45 {
 	public static void main(String[] args) {
